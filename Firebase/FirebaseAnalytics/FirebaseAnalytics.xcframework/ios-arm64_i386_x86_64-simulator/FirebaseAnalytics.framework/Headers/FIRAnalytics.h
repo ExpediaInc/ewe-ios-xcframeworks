@@ -171,5 +171,3 @@ NS_SWIFT_NAME(Analytics)
 @end
 
 NS_ASSUME_NONNULL_END
-
-#import "FIRAnalytics+Consent.h"
